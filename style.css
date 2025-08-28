@@ -1,6 +1,6 @@
 body {
-    background: rgb(16, 198, 222);
-    color: rgb(34, 179, 24);
+    background: whitesmoke
+    color: pink;
     padding: 10px;
     font-family: Arial, sans-serif;
 
@@ -13,7 +13,7 @@ body {
 
 /* navigation menu */
 nav {
-    background: rgba(18, 219, 55, 0.539);
+    background:lightpink;
     margin: 0 auto;
     display: flex;
     padding: 10px;
